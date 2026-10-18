@@ -7,3 +7,5 @@ window_config.json
 backup/
 *.log
 *.tmp
+
+.git_local_bak/
