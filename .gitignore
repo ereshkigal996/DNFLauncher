@@ -7,3 +7,5 @@ module/*.json
 !module/quest_names.json
 module/*.log
 module/*.bak
+
+WebUI/
