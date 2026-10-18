@@ -1,5 +1,4 @@
-﻿WebUI/
-config/
+﻿config/
 backup/
 *.log
 *.bak
