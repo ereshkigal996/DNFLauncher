@@ -1,0 +1,8 @@
+﻿WebUI/
+config/
+backup/
+*.log
+*.bak
+module/*.json
+module/*.log
+module/*.bak

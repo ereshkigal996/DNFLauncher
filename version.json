@@ -1,0 +1,7 @@
+﻿{
+    "build_time":  1792339802,
+    "release_date":  "2026-10-18",
+    "version":  "3.4.0",
+    "stage":  "release",
+    "notes":  "传统版切换增量更新模式：快速模式可设置服务端路径；更新检查与WebUI一致（version.json + 文件差异增量下载）；上传仓库不含WebUI/配置文件/backup"
+}
