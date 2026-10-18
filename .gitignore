@@ -4,5 +4,7 @@ backup/
 *.log
 *.bak
 module/*.json
+!module/quest_extras.json
+!module/quest_names.json
 module/*.log
 module/*.bak
