@@ -1,7 +1,7 @@
 {
-    "build_time": 1792339802,
-    "release_date": "2026-10-18",
-    "version": "3.4.0",
+    "build_time": 1792376940,
+    "release_date": "2026-10-19",
+    "version": "3.5.0",
     "stage": "release",
-    "notes": "传统版配置文件改造：改用 config/config.json（设置+账号密码统一JSON存储），弃用 accounts.dat/config.lau；GM工具与accmg同步读取新配置；增量更新模式"
+    "notes": "更新机制调整：登录器只更新根目录文件（launcher.exe/lib/fonts/config/version.json等），module下GM工具/accmg/log_reader不再随登录器更新；GM工具加入独立自更新（gmtool_version.json，仅更新gmtool.exe本体）；accmg、log_reader停止更新"
 }
