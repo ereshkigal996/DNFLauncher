@@ -1,7 +1,7 @@
-﻿{
-    "build_time":  1792339802,
-    "release_date":  "2026-10-18",
-    "version":  "3.4.0",
-    "stage":  "release",
-    "notes":  "传统版配置文件改造：改用 config/config.json（设置+账号密码统一JSON存储），弃用 accounts.dat/config.lau；GM工具与accmg同步读取新配置；增量更新模式"
+{
+    "build_time": 1792339802,
+    "release_date": "2026-10-18",
+    "version": "3.4.0",
+    "stage": "release",
+    "notes": "传统版配置文件改造：改用 config/config.json（设置+账号密码统一JSON存储），弃用 accounts.dat/config.lau；GM工具与accmg同步读取新配置；增量更新模式"
 }
