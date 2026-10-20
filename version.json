@@ -1,8 +1,8 @@
 {
-    "build_time": 1792527182,
+    "build_time": 1792528000,
     "release_date": "2026-10-20",
-    "version": "3.6.0",
+    "version": "3.6.1",
     "stage": "release",
     "lifecycle": "discontinued",
-    "notes": "传统版（PyQt5）停更：版本升至3.6.0后标记停更，仅保留基础使用；后续开发以WebUI版为主，module仍采用PyQt5开发；移除状态栏WebUI推广与4.0停更弹窗"
+    "notes": "3.6.1：日志阅读器更新（新增快速模式，直接打开 logs\\std.log）；log_reader 随登录器更新"
 }
